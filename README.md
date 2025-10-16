@@ -79,19 +79,19 @@ Common mapping suggestions:
 
 ```
 |   MAIN   | SECONDARY |
-|   (1)    |  (resto)  |
+|   (1)    |  (rest)  |
 ```
 
 - `mainPaneCount = 3`
 
 ```
-|   MAIN (3 finestre: 1/2 + due quarti)  | SECONDARY |
+|   MAIN (3 windows: 1/2 + 1/4 + 1/4)  | SECONDARY |
 ```
 
 - `mainPaneCount = 4`
 
 ```
-|   MAIN (griglia 2x2) | SECONDARY |
+|   MAIN (grid 2x2) | SECONDARY |
 ```
 
 ## Limits
